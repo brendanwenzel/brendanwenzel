@@ -1,5 +1,4 @@
 # Rust/Solidity Developer
-<center><img src="https://www.brendanwenzel.com/assets/images/background_hero-547f587bb9ddb22dfbdde592f9d03f0e.png" style="background: #ffc400" width="600"/></center>
 
 My coding journey started in Dec 2021 on a trip to Florida to visit my family. 
 
