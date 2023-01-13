@@ -1,20 +1,3 @@
 <h1 align="center">Rust & Solidity Developer</h1>
 
-My coding journey started in Dec 2021 on a trip to Florida to visit my family. 
-
-On that plane ride to Florida, the decision was made that if I'm going to take crypto/blockchain seriously, it was something that I needed to understand from a tech level to win. 
-
-## JS
-The first language to learn was JS because it seemed to be the mostly widely used among crypto projects.
-
-Using LibEVM's Subway repo, my first working and profitable on-chain trading bot was up and running by May 2022 after a month of altering it to work for my specific alpha. That bot went on to do about 80k transactions before other searchers found the alpha.
-
-## Solidity
-Solidity was the second language to get my focus. Obviously, if you want to work in blockchain, you have to know Solidity. 
-
-Thanks to [Smart Contract Developer](https://www.youtube.com/@smartcontractprogrammer) and [Patrick Collins](https://www.youtube.com/@PatrickAlphaC) for all the work they've done to teach Solidity!
-
-## Rust
-With a firm grasp of Solidity, my attention is now on developing my skills with Rust!
-
-My first project in Rust was building a [CLI for Perpetual Protocol](https://github.com/brendanwenzel/perp_cli_curie).
+[perp_cli_curie](https://github.com/brendanwenzel/perp_cli_curie) is a command-line application written in the Rust programming language. It is a tool for managing and analyzing data from the Perp trading platform. The application allows users to retrieve information about markets, orders, and positions, as well as place and cancel orders. The application can be run from the command line and supports a number of command-line arguments for specifying various options and parameters.
