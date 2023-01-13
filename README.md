@@ -1,4 +1,4 @@
-# Rust/Solidity Developer
+<h1 align="center">Rust & Solidity Developer</h1>
 
 My coding journey started in Dec 2021 on a trip to Florida to visit my family. 
 
